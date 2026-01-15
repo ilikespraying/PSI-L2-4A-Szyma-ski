@@ -11,7 +11,7 @@ document.querySelectorAll(".theme").forEach(card => {
     card.addEventListener("click", () => {
         if(darkmode){
             root.style.setProperty("--bg-color"," #a7a7a8");
-            root.style.setProperty("--primary","#2e2e2e");
+            root.style.setProperty("--primary"," #2e2e2e");
             darkmode = false;
         }else{
             root.style.setProperty("--bg-color"," #0f172a");
