@@ -46,6 +46,12 @@ nav {
     color: var(--primary);
 }
 
+.theme {    
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: var(--primary);
+}
+
 /* SEKCJA POWITANIE */
 .hero {
     text-align: center;
